@@ -18,6 +18,7 @@ Os observer devem se registrar ao subject para que seja notificado quando o even
 
 ![](images/observer.png)
 
+### Autor
 
 #### Artaxerxes Nazareno
 <img src="https://github.com/artaxerxes001/artaxerxes001/raw/main/imagens/eu.jpg" width="200">
