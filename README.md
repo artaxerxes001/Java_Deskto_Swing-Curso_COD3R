@@ -7,3 +7,5 @@ Os observer devem se registrar ao subject para que seja notificado quando o even
 - quando aconteceu;
 - quem disparou o evento;
 - em que circustacia aconteceu ou o tipo de evneto;
+
+![](images/observer.png)
