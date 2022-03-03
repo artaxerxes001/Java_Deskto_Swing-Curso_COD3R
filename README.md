@@ -20,7 +20,7 @@ Os observer devem se registrar ao subject para que seja notificado quando o even
 
 
 #### Artaxerxes Nazareno
-<img src="/image/eu.png" width="200">
+<img src="https://github.com/artaxerxes001/artaxerxes001/raw/main/imagens/eu.jpg" width="200">
 
 ##### Sigam me:
 [![Twitter Badge](https://img.shields.io/badge/-@artaxerxes0001-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tgmarinho)](https://twitter.com/Artaxerxes0001)  [![Linkedin Badge](https://img.shields.io/badge/-Artaxerxes_Nazareno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/artaxerxes-nazare/)](https://www.linkedin.com/in/artaxerxes-nazare/) [![Gmail Badge](https://img.shields.io/badge/-artaxerxesnazare@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:artaxerxesnazare@gmail.comm)](mailto:artaxerxesnazare@gmail.com)
